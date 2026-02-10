@@ -1,5 +1,7 @@
 export function Perfil() {
   return (
-    <div>perfil</div>
+    <div>
+      Perfil Component
+    </div>
   )
 }
